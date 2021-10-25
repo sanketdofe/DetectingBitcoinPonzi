@@ -1,0 +1,10 @@
+,tx_id,time,inputs,outputs
+0,7b3161b032af0e83cf0689fb05367f120a4e92e07785e79ca47e7da97f952caa,2021-10-01 16:21:17,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 3187)]","[('36w4m49SLajaGV1v2jL5v8NHfiyYP1HgY8', 2077)]"
+1,f3913bd33087c5b1f8a02bd099b83e0f1a0e5c07b527520ba5a8d7d8d23f53b8,2021-08-27 19:52:19,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 6805), ('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 12043), ('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 89109)]","[('34bStpHivJAbfxkUB6KVAXwLGaY3atJBrT', 103380), ('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 3187)]"
+2,b583c5f6de42ac17d745c132854981e6592689559ce919bc6635a1e485c837d7,2021-08-11 19:14:33,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 43515)]","[('3HBRTcQWD1vFBGMhZeU5szgg715dbeJAsA', 36000), ('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 6805)]"
+3,cf61ec67474fc0481daae13e1555e16257e806277737a358cfe71a019ae7426b,2021-07-18 01:52:20,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 157000)]","[('1MGUSu76yH1H99N5cezHRv9KQwdQ2C6Y8H', 155983)]"
+4,09635fa8c19773a537d3e1a30ea29e8dde4faadac87020f8a03487d03757d767,2021-07-18 00:03:02,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 159000)]","[('1F4QXeQxjeaFMyAGW66tnwMGSRuzKD8QJ7', 157870)]"
+5,9915d862974bc84049ab025dc05ae8253a280cfe6ae287be9d9d17754c74154c,2021-07-16 17:30:19,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 157000)]","[('3BXEU2m4zXQow4noE4z9MkDnCUE7p2H77G', 155779)]"
+6,a9f912866f733a96b51921c32572ac9be06fc55f02e14df61f13307095caf8fd,2021-06-17 01:37:27,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 129000)]","[('bc1q3eyuegftx8amuh6jyh3f9c38lswwm7kgz4lmme', 125480)]"
+7,8558a8b70c5bd7d3cd960e157e6e7bdf01d4422fac74c7913e05af1dd5723405,2021-06-16 20:31:42,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 206000)]","[('bc1q3eyuegftx8amuh6jyh3f9c38lswwm7kgz4lmme', 202370)]"
+8,38da2f4a8233a40c92629da8b77f5210cc0a768e58c97787863924c8dad40688,2021-04-27 21:13:15,"[('bc1qdd08h2sjew7jalvkz9z5pm56z3mk39q499pl0n', 91000)]","[('3QkA6FwcAK4YiAEWzD3PshXp5mcmPESczR', 70909)]"

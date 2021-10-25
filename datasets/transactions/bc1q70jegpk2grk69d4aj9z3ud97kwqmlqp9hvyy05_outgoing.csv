@@ -1,0 +1,8 @@
+,tx_id,time,inputs,outputs
+0,3120ef9eea080195c6c8bdafc1f8a424c3ec82934b44b7b8ebbbdf9141947949,2021-10-13 16:40:23,"[('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 88272)]","[('3P3ViCfHywzSz1iUYKa2LPmkGaFXyVLxfv', 86718)]"
+1,c2bd48dd77f28991fb1884bd13f440476dbc0265656b232a0c6e3022ca2e17ee,2021-10-06 20:18:07,"[('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 127060)]","[('1MNykCMWYwXjQyRfmcoW8cqtFuqCmSt8ar', 36340), ('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 88272)]"
+2,a641b8b61fccb160d327496e67f2c246f5ff77eddda6b0868193d4c455a72be8,2021-07-21 18:06:50,"[('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 267780)]","[('1MNykCMWYwXjQyRfmcoW8cqtFuqCmSt8ar', 140000), ('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 127060)]"
+3,b88be077b623014cabdebda377379aec8e53a5938b5f9f36011b6d812bd4b3c2,2021-06-20 00:50:03,"[('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 238042), ('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 325600), ('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 43117)]","[('1E1PKQeyBXFLCqB5744uSwpTn9XX2xU4xY', 600534)]"
+4,210a6a00e6ed44e2a4cf4fc13560b0e36ec01a34d5a85147fdafa41541255beb,2021-06-13 17:20:39,"[('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 247725)]","[('1BXUKMHpigRD5uPSddVk2YcTRonU6Uhxag', 200000), ('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 43117)]"
+5,28b683bcb8ec77fed2934555d21a05e3db2f30702c102e3ebf1c163a50a58702,2021-06-10 17:16:42,"[('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 361000)]","[('1DKnN91Ef8CTcCDXoyEwSWyZUXaxCTYBcF', 108667), ('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 247725)]"
+6,a96f4729af7f2acda7d3b2b124726f7979c213975fb0433b4871a8414ecee6e3,2021-06-05 17:56:41,"[('bc1q70jegpk2grk69d4aj9z3ud97kwqmlqp9hvyy05', 370400)]","[('1C6rexHs7dab4Bb37wuBi6PizkeCtQC6Vz', 365880)]"

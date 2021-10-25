@@ -1,0 +1,4 @@
+,tx_id,time,inputs,outputs
+0,76f4c7ee7f7c1fc2a5d46403426ade6d7de4a9b88ccc4df56c18f06bb24dd5bb,2021-01-06 15:00:17,"[('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 153988), ('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 113354), ('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 97836), ('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 97121)]","[('3QhvVjjZVqrfKRjNHxb5uChZS6w9b36SC6', 433227)]"
+1,e4241855ae4cd8b2ab06bbeaf5199a458ac69ce54072a8ca9b9edd38f84b61b3,2020-12-01 13:15:36,"[('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 118624)]","[('3BbCnHHbTMZ3QjcGiid2zRDTUggWtvVWJE', 108320)]"
+2,303214775f66f8c2c0bcf54cf4cf7e6b35cf21ef25febded2686ec3d6206cdf2,2020-11-24 19:44:39,"[('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 308047), ('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 237875), ('bc1q8273auhuy0rjpd5k0ljjef0045wjs0k9hm8ypn', 126089)]","[('bc1qpqqh996j0kyw55z8dru42chh4cgvtm7epz80lz', 654651)]"
