@@ -1,0 +1,10 @@
+,tx_id,time,inputs,outputs
+0,04761a9e1e0708fb87e3f7e2238bbec7588d08908a73568a60f3d4a48d433edd,2021-10-14 09:30:27,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 115020)]","[('bc1qgdwn7mdp2szss5g64xpzzvsenwdj2mafew9p2s', 113700)]"
+1,49475966876dcabcc326459c833f45d0400600614b51f60fd5319ccbec877bf1,2021-09-28 10:27:22,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 102784)]","[('bc1qgdwn7mdp2szss5g64xpzzvsenwdj2mafew9p2s', 101904)]"
+2,7882f05e7a01ad66c1f9b5a16dc7afeeb376a983052c8e168706334b512f7b3c,2021-09-16 06:25:28,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 108020)]","[('bc1qgdwn7mdp2szss5g64xpzzvsenwdj2mafew9p2s', 106920)]"
+3,50957a73d66b49f8cffec06f45d5c0c9067b954da401a8ee08243b4b0fb54480,2021-09-05 09:07:37,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 101013)]","[('bc1qgdwn7mdp2szss5g64xpzzvsenwdj2mafew9p2s', 99913)]"
+4,8318270638fc29996009de9a48329e6851d77e551b3e4cf1fdfbcc80c25c44b0,2021-08-24 18:56:11,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 102361)]","[('bc1qgdwn7mdp2szss5g64xpzzvsenwdj2mafew9p2s', 101151)]"
+5,757871db05bf20a00cd119af17c1f9471244820dafec37a28419f389718a589e,2021-08-21 14:22:05,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 103227), ('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 100788)]","[('bc1qgdwn7mdp2szss5g64xpzzvsenwdj2mafew9p2s', 202947)]"
+6,4f07896b80fcd8607ca15fdee767bf89ec23edace55a72ed9e37c47297800be0,2021-06-17 07:47:51,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 105998), ('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 101918), ('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 5748)]","[('bc1q4rp3w9ylwp4mtv7hsk7yg47pe66yumuj2mlmq2', 205792)]"
+7,af272806d77a9d9366459fab63e083301dc0d6d09d36b259918ec54a8214aec7,2021-05-27 09:58:47,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 103772)]","[('bc1q4rp3w9ylwp4mtv7hsk7yg47pe66yumuj2mlmq2', 93652)]"
+8,192920852ba9075d1a6eda0f99dbac400ccb379947962bb7d0dd2dfd65083d07,2021-05-15 10:53:22,"[('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 106342)]","[('1ACWhBgtYGiC6QGJTF92DrjzUMnUDo6wWJ', 91666), ('bc1qxzenftvj0qn3pfa9747wzxmj5xstsafwx50vem', 5748)]"
