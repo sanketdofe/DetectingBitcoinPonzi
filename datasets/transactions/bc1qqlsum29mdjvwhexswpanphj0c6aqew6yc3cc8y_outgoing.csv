@@ -1,0 +1,10 @@
+,tx_id,time,inputs,outputs
+0,d3a5372b2e781087e3643e118427c9cacddb5f8158a96bf70c5acd3a487b5746,2021-10-14 08:25:20,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 86744), ('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 172677)]","[('bc1q8qmjk2krkd4tk2ud5t4lllywyhjjx53x8mngsm', 239904)]"
+1,13b0ce1bdf10f88ca1f752a1605041e3055938ee608c817bb9752ade477770bc,2021-10-13 06:40:31,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 92019)]","[('bc1q3esz759k0kyp6awhpgh2mqpv388j3jgfk83xs8', 89070)]"
+2,d8c50df66bd16eb75e2afe2eb777384334204f7876f29bb942bc3a185132b635,2021-10-09 17:09:31,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 17132), ('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 494204)]","[('bc1q2jf6t7xema24qc03yush824dqp7h7qmff8yn79', 507146)]"
+3,fa61d58fea81db4b29ed56b2d6596ce3ea5c1462525f544c46369d7430f7e744,2021-10-09 09:16:54,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 1084846), ('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 371871)]","[('bc1qfmyup2m4tmeex5hd50ngp8qjvh9erxw8re6fdd', 1454522)]"
+4,9fc6bcedd70f18a87cefac5188b2a09066c248bbe4fac723a653563e0fac650a,2021-10-09 08:53:50,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 273404)]","[('bc1qnuzr0r8zsww22ksatufqq7750575edla9wmrae', 271226)]"
+5,7f0b21b66031a4491677ac37d90443fbe14d378a9d91458a28eb2b91dab5212a,2021-10-09 07:36:54,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 399799)]","[('bc1q3esz759k0kyp6awhpgh2mqpv388j3jgfk83xs8', 397877)]"
+6,c7f6fb3438dfceb6b8407013e9f4241df07e83f3c945a9edc6635eec83ff8191,2021-09-15 09:24:21,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 101718)]","[('33k3zY1uKyiFDEq9Riz2GrNTbZchpcgAGz', 100693)]"
+7,7ef43ff74251150c11026bfa3f0d915dc43f3f1966064b7728843643ba8927d8,2021-09-11 04:17:57,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 3937180)]","[('3BW3oEXi1vivAeSktBYwj73TcwcrYh5MGb', 3936283)]"
+8,1e2e6791c4a0afbb3d2e02a57b111b45ceede3d85cdccc8ed63037289ba703ff,2021-08-06 18:14:28,"[('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 260639), ('bc1qqlsum29mdjvwhexswpanphj0c6aqew6yc3cc8y', 292254)]","[('374gx9uxyXuw4rdDqSqRU2DBBhLeyz1frs', 548903)]"

@@ -1,0 +1,10 @@
+,tx_id,time,inputs,outputs
+0,e5870cb03c85ff5815f6920cb5d2ae9395e8fddcc626afbab65e1544215c3ff3,2021-08-08 22:52:19,"[('bc1qst6klcze83wzr4lk0uwzrzglzw5qg6q9wznqyv', 409335)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 396058), ('bc1qw3lmcmdl9zuws6mhpc8uea2enkzynkvl82ht30', 13051)]"
+1,5027fc7c421ca40934792050d079fe70c79366662dd531fd9dd61da56d487aef,2021-07-26 00:14:45,"[('bc1qkw24qdfund96e788qy68fzena6kyq9e572acjj', 421217)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 420919)]"
+2,59a99043af434e91eb36327cf2a9d5de2eee1b888c04294266dc267e0a8a162a,2021-07-04 14:38:42,"[('bc1qtm34emkygwzmnnjetvwwy99urnhqpxxyjg290f', 2126497)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 2125216), ('bc1qdl5mpg3ffe8lap5yhswc4ydn9lhzxt56auwmhq', 829)]"
+3,ebc9c8e7067b7f27a4e571588af0e55c9dac0df4a8dec1d7c6ba8b51f0769790,2021-06-29 14:10:21,"[('bc1qrh70ylkl6teyv9dmlynke3en5yy2hznc8san47', 104028)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 91647)]"
+4,b39bb41cec580edc107c201836c6ba41554b5581b54f405510b9b8d93bbe2891,2021-06-29 09:22:45,"[('bc1q0vzfqf4tzw0vgjas62vc8q48acs6h7djelq9gz', 584646)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 566113)]"
+5,60faee6dedece156219fd7715e9c674e83952c50c14fcb59c70cac70e3bfc70e,2021-06-24 04:14:42,"[('bc1q2cm56rwhryjzj0avf7zmlgg65hsqsz43lcpqej', 519808), ('bc1qc8nlklgau4vatny229qdq0f9phjg8hgymd28cw', 33180), ('bc1qzxxadywa6g5vvl5ve8m3n342kpwezl98eplmlh', 24996)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 543839)]"
+6,2f7c084e2d7e836040efe9ad6f2dcba742c4ac69c1c30fc1b82270838eb5303e,2021-05-29 10:59:51,"[('bc1qa9ekp4ykc2aj0v76qm3hpuuerq53kgqf5m5u6e', 374519)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 340435), ('bc1qc8nlklgau4vatny229qdq0f9phjg8hgymd28cw', 33180)]"
+7,cdc00573780ed269f6a61b81176d74e4a0b8fd75af5c608ba94746662c1007fe,2021-05-20 16:39:05,"[('bc1qgtmqevry2nq63gggc5ex2ct4jtny5jy3vwfsk3', 442580)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 390012), ('bc1qzxxadywa6g5vvl5ve8m3n342kpwezl98eplmlh', 24996)]"
+8,4fb62950fc4156ec2c4bd36f8bb5c125452f6f2970c475512d08f864dd0d6676,2021-04-21 09:58:58,"[('bc1q8xh75n85lfmqg5tlunljwac7tc92rqpf26t5yc', 482689)]","[('3KoaDFuoJkRamyQSyyae46gSAKUAiXZGjA', 423690)]"
