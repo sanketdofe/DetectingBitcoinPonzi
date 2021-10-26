@@ -1,0 +1,3 @@
+,tx_id,time,inputs,outputs
+0,80f27a47884f21ff772c3be61c35d711c4f1bb7d14b6ab0ab949e1660a695498,2021-10-15 10:19:01,"[('bc1qdtaskclpa36quadn4f2x93veyctq4v0q4rkycm', 113781), ('bc1qdtaskclpa36quadn4f2x93veyctq4v0q4rkycm', 114014), ('bc1qdtaskclpa36quadn4f2x93veyctq4v0q4rkycm', 114132), ('bc1qdtaskclpa36quadn4f2x93veyctq4v0q4rkycm', 116651)]","[('bc1qayl9ej9gx5vwfa542jxz4q8wdu9ffu7rafp3nx', 400000), ('bc1qdtaskclpa36quadn4f2x93veyctq4v0q4rkycm', 54438)]"
+1,36eea701ebb10c3729bdcd1cdc4d4af415b7c38e134fc68bb121a41105c68f84,2021-10-02 16:34:37,"[('bc1qdtaskclpa36quadn4f2x93veyctq4v0q4rkycm', 124266)]","[('bc1qayl9ej9gx5vwfa542jxz4q8wdu9ffu7rafp3nx', 100000), ('bc1qdtaskclpa36quadn4f2x93veyctq4v0q4rkycm', 23138)]"

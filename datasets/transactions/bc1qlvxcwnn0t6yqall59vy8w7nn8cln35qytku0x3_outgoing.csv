@@ -1,0 +1,11 @@
+,tx_id,time,inputs,outputs
+0,f96b860dee71c962a06e20e85230dcfa5e18a643738cd5b0f64c9e871dbe92e5,2021-10-14 07:33:32,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 103808)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 102452)]"
+1,e8647cc0312202c543cacd20840c3d53927656f077d042a4591c94443ca1900f,2021-09-27 15:10:06,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 100519)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 100180)]"
+2,6f832ee31dfe333b62e52cff80d09080320dbe33d67ba6177b633804722b738a,2021-09-06 09:52:17,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 111625)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 110495)]"
+3,a3167e464d94a00110869cf64dbcbc8e65df974701b79f699b8f454dfda08a97,2021-08-29 05:59:41,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 110686)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 110347)]"
+4,5ca6c504bbe87db590535a814c87e39d3f9f69647fb2de61861172626e9b911d,2021-08-21 07:03:20,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 104809)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 104131)]"
+5,70b21ffe90ba835584a38f12ae8d85c08c3f061c2dbeedb064a56d823820195c,2021-08-16 04:03:02,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 120414)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 119849)]"
+6,5d2ddc4298d6a2e94ed8ea36bcd39b462867b9e172341c1ce7481893c4e54f66,2021-08-11 04:45:51,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 102660)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 102208)]"
+7,14bbe633506aac178d0c509f625cd018ddcaff15172bc73050398e47226ffb8f,2021-08-07 03:27:29,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 113175)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 112610)]"
+8,f110a14f1989c384d59177923b77cc19fbbfdf6c8b68f692210b5e2580f62314,2021-07-24 18:43:57,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 113470), ('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 107463)]","[('1DyAD5KgyWuwwrMfb1964bHo56vTAsgSMS', 220390)]"
+9,8a55e32ab61fb1dd6dc3a48257c3c55aaba147e1d47c51b6b861f5cb63fda61e,2021-06-28 08:53:57,"[('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 116396), ('bc1qlvxcwnn0t6yqall59vy8w7nn8cln35qytku0x3', 108299)]","[('1N1rK4X5hvaBPbHasjA9UDdmFV1kVJt9gV', 214378)]"
